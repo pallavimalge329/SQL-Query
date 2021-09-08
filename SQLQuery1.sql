@@ -28,7 +28,7 @@ from HumanResources.Employee
 
 select BirthDate
 from HumanResources.Employee
-where BusinessEntityID= 13
+where BusinessEntityID= 13;
 
 select BusinessEntityID 'Employee ID' ,
 JobTitle  as 'Designation',
