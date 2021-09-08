@@ -34,7 +34,7 @@ select BusinessEntityID 'Employee ID' ,
 JobTitle  as 'Designation',
 BirthDate 'Date of Birth',
 'Joining Date' = HireDate
-from HumanResources.Employee
+from HumanResources.Employee;
 
 
 
